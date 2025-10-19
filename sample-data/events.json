@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Tech Innovations Summit 2025",
+    "description": "A summit exploring cutting-edge technology trends in South Africa.",
+    "location": "Johannesburg Convention Centre",
+    "startDate": "2025-11-05T08:00:00Z",
+    "endDate": "2025-11-06T17:00:00Z",
+    "capacity": 300,
+    "price": 1200,
+    "createdBy": null,
+    "createdAt": "2025-10-15T10:00:00Z"
+  },
+  {
+    "title": "Youth Empowerment Workshop",
+    "description": "Interactive sessions for young professionals developing leadership skills.",
+    "location": "Cape Town City Hall",
+    "startDate": "2025-12-10T09:00:00Z",
+    "endDate": "2025-12-10T16:00:00Z",
+    "capacity": 150,
+    "price": 450,
+    "createdBy": null,
+    "createdAt": "2025-10-18T14:30:00Z"
+  }
+]

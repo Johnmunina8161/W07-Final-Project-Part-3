@@ -1,0 +1,16 @@
+[
+  {
+    "event": "Tech Innovations Summit 2025",
+    "user": "Sarah Ndlovu",
+    "rating": 5,
+    "comment": "Fantastic event with insightful discussions!",
+    "createdAt": "2025-10-19T12:00:00Z"
+  },
+  {
+    "event": "Youth Empowerment Workshop",
+    "user": "John Munina",
+    "rating": 4,
+    "comment": "Well organized and inspiring speakers.",
+    "createdAt": "2025-10-19T12:30:00Z"
+  }
+]

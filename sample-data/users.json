@@ -1,0 +1,18 @@
+[
+  {
+    "name": "John Munina",
+    "email": "john@example.com",
+    "oauthProvider": "google",
+    "oauthId": "12345",
+    "role": "organizer",
+    "createdAt": "2025-10-19T09:00:00Z"
+  },
+  {
+    "name": "Sarah Ndlovu",
+    "email": "sarah@example.com",
+    "oauthProvider": "google",
+    "oauthId": "67890",
+    "role": "attendee",
+    "createdAt": "2025-10-19T09:30:00Z"
+  }
+]
