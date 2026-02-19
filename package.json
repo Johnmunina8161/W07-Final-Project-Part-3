@@ -1,7 +1,7 @@
 {
   "name": "event-api-project",
   "version": "1.0.0",
-  "description": "Event Management API - v2 (CRUD, validation, OAuth ready, tests, Swagger)",
+  "description": "Event Management API - v2 (CRUD, validation, OAuth ready, test, Swagger)",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",

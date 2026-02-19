@@ -16,7 +16,7 @@ const auth = require('../middleware/authMiddleware');
  *   get:
  *     summary: Get all feedback
  *     tags: [Feedback]
- *     responses:
+ *     response:
  *       200:
  *         description: List of all feedback
  */
